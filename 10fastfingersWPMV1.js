@@ -3,7 +3,7 @@
 // @namespace    10fastfingers.com
 // @version      0.2
 // @description  Shows typing speed in wpm while typing
-// @author       puzzle
+// @author       IO MOdding
 // @match        https://10fastfingers.com/typing-test/*
 // @match        https://10fastfingers.com/advanced-typing-test/*
 // @run-at       document-end
